@@ -1,0 +1,13 @@
+C:\Users\59396\source\repos\iterdorexpo\iterdorexpo\obj\Debug\netcoreapp3.1\iterdorexpo.csprojAssemblyReference.cache
+C:\Users\59396\source\repos\iterdorexpo\iterdorexpo\obj\Debug\netcoreapp3.1\iterdorexpo.AssemblyInfoInputs.cache
+C:\Users\59396\source\repos\iterdorexpo\iterdorexpo\obj\Debug\netcoreapp3.1\iterdorexpo.AssemblyInfo.cs
+C:\Users\59396\source\repos\iterdorexpo\iterdorexpo\obj\Debug\netcoreapp3.1\iterdorexpo.csproj.CoreCompileInputs.cache
+C:\Users\59396\source\repos\iterdorexpo\iterdorexpo\bin\Debug\netcoreapp3.1\iterdorexpo.exe
+C:\Users\59396\source\repos\iterdorexpo\iterdorexpo\bin\Debug\netcoreapp3.1\iterdorexpo.deps.json
+C:\Users\59396\source\repos\iterdorexpo\iterdorexpo\bin\Debug\netcoreapp3.1\iterdorexpo.runtimeconfig.json
+C:\Users\59396\source\repos\iterdorexpo\iterdorexpo\bin\Debug\netcoreapp3.1\iterdorexpo.runtimeconfig.dev.json
+C:\Users\59396\source\repos\iterdorexpo\iterdorexpo\bin\Debug\netcoreapp3.1\iterdorexpo.dll
+C:\Users\59396\source\repos\iterdorexpo\iterdorexpo\bin\Debug\netcoreapp3.1\iterdorexpo.pdb
+C:\Users\59396\source\repos\iterdorexpo\iterdorexpo\obj\Debug\netcoreapp3.1\iterdorexpo.dll
+C:\Users\59396\source\repos\iterdorexpo\iterdorexpo\obj\Debug\netcoreapp3.1\iterdorexpo.pdb
+C:\Users\59396\source\repos\iterdorexpo\iterdorexpo\obj\Debug\netcoreapp3.1\iterdorexpo.genruntimeconfig.cache
